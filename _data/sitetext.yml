@@ -1,10 +1,9 @@
-#
-# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
+## 참고 https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
 #
 # Configuration: Add to _config.yml
 # locale: "en-US"  [YOUR PREFERRED LOCALE]
 #
-# How to use:
+# 사용방법:
 # {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
 
 # English (default)
@@ -55,10 +54,10 @@ en: &DEFAULT_EN
         image: assets/img/timeline/2.jpg
         alt:
       - title: "LikeLionSKU 12TH"
-        year: "2024"
+        year: "2024-2024"
         desc: "Comming Soon"
         image: assets/img/timeline/3.jpg
-        alt: image alt text
+        alt: #image alt text
       # - title: ""
       #   year: ""
       #   desc: ""
@@ -73,24 +72,6 @@ en: &DEFAULT_EN
     text: "LIKELION SKU"
     body: "여기에 멋사 설명 어쩌고 저쩌고 들어가야함"
     section: about
-
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
 
   team:
     title: "MADE BY"

@@ -1,9 +1,9 @@
-# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
+# 참고 https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
 #
 # Configuration: Add to _config.yml
 # locale: "en-US"  [YOUR PREFERRED LOCALE]
 #
-# How to use:
+# 사용방법:
 # {{ site.data.navigation[site.locale].nav.<var_name> | default: 'text' }}
 
 # English (default)
@@ -12,7 +12,7 @@ en: &DEFAULT_EN
   nav:
     - title: "Services"
       section: services
-    - title: "Portfolio"
+    - title: "MEMBER"
       section: portfolio
     - title: "About"
       section: about
@@ -20,13 +20,9 @@ en: &DEFAULT_EN
       section: timeline
     - title: "Team"
       section: team
-    - title: "Contact"
-      section: contact
+    # - title: "Contact"
+    #   section: contact
 en-US:
   <<: *DEFAULT_EN
-en-CA:
-  <<: *DEFAULT_EN
-en-GB:
-  <<: *DEFAULT_EN
-en-AU:
+ko-KR:
   <<: *DEFAULT_EN
