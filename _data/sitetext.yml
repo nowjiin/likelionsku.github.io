@@ -10,8 +10,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: &nbsp;
-    text: &nbsp;
+    title: &nbsp
+    text: &nbsp
     button: GO!
     buttonlink: "#services"
 
