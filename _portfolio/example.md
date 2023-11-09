@@ -2,7 +2,7 @@
 caption: #what displays in the portfolio grid:
   title: 대표
   subtitle: 황현진
-  thumbnail: https://place-hold.it/400x300
+  thumbnail: assets/img/header2.jpg
   
 #what displays when the item is clicked:
 title: Title
