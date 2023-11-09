@@ -21,11 +21,11 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "UX/UI"
-        desc: "기획/디자인"
+        desc: "Figma"
         icon: fas fa-figma #find more at https://fontawesome.com/icons
       - title: "Front-End"
         desc: "HTML/CSS/JS/React"
-        icon: fas fa-react
+        icon: fas fa-html5
       - title: "Back-End"
         desc: "Spring/Django"
         icon: fab fa-java
