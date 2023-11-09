@@ -10,9 +10,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: POSSIBILITY TO REALITY!
+    text: LIKELION SKU
+    button: 보러가기
     buttonlink: "#services"
 
   services:
@@ -47,7 +47,7 @@ en: &DEFAULT_EN
         year: "2023-2023"
         desc: "서경대학교 멋사 시작"
         image: assets/img/timeline/1.jpg
-        alt:
+        alt: 
       - title: "LikeLionSKU 11TH"
         year: "2023-2023"
         desc: "서경대학교 정 동아리 승격"
@@ -57,14 +57,14 @@ en: &DEFAULT_EN
         year: "2024-2024"
         desc: "Comming Soon"
         image: assets/img/timeline/3.jpg
-        alt: #image alt text
+        alt: left #image alt text
       # - title: ""
       #   year: ""
       #   desc: ""
       #   image: assets/img/timeline/4.jpg
       #   alt:
         # you can enforce the alignment
-        align: right
+        # align: right
     end: "다음 <br> 멋사는 <br> 너!"
 
   about:
@@ -126,9 +126,8 @@ en: &DEFAULT_EN
     submit: "Send Message"
 
   footer:
-    # legal: "Privacy Policy"
     social:
-      - url: https://github.com/raviriley/agency-jekyll-theme
+      - url: https://github.com
         icon: "fab fa-github"
       - url: https://instagram.com
         icon: "fab fa-instagram"
