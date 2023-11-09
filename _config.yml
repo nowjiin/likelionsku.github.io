@@ -13,7 +13,7 @@
 
 theme: jekyll-agency
 
-url    : "" # the base hostname & protocol for your site, e.g. http://example.com
+url    : "https://nowjiin.github.io/likelionsku" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : LikeLionSKU
@@ -27,7 +27,7 @@ author     : LIKELIONSKU 11TH LEAD
 locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:
-  google: #Google Analytics tracking code here
+  google: G-9T09G5TY4D
 
 collections:
   portfolio:
