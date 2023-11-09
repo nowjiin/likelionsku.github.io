@@ -10,8 +10,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: " "
-    text: " "
+    title: &nbsp
+    text: &nbsp
     button: GO!
     buttonlink: "#services"
 
@@ -22,10 +22,10 @@ en: &DEFAULT_EN
     list:
       - title: "UX/UI"
         desc: "Figma"
-        icon: fas fa-figma #find more at https://fontawesome.com/icons
+        icon: fab fa-figma #find more at https://fontawesome.com/icons
       - title: "Front-End"
         desc: "HTML/CSS/JS/React"
-        icon: fas fa-html5
+        icon: fab fa-html5
       - title: "Back-End"
         desc: "Spring/Django"
         icon: fab fa-java
