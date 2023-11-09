@@ -10,9 +10,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: POSSIBILITY TO REALITY!
-    text: LIKELION SKU
-    button: 보러가기
+    title: 
+    text: 
+    button: GO!
     buttonlink: "#services"
 
   services:
