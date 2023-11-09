@@ -17,29 +17,29 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "3 PART"
+    text: "멋사의 세가지 분야"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "UX/UI"
+        desc: "기획/디자인"
+        icon: fas fa-figma #find more at https://fontawesome.com/icons
+      - title: "Front-End"
+        desc: "HTML/CSS/JS/React"
+        icon: fas fa-react
+      - title: "Back-End"
+        desc: "Spring/Django"
+        icon: fab fa-java
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "구성원"
+    text: "멋사 11기 구성원"
     section: portfolio
     closebutton: "Close Project"
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "연혁"
     section: timeline
     # left is the default
     #start_align: "left"
@@ -49,24 +49,24 @@ en: &DEFAULT_EN
         desc: "서경대학교 멋사 시작"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "LikeLionSKU 11TH"
+        year: "2023-2023"
+        desc: "서경대학교 정 동아리 승격"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "LikeLionSKU 12TH"
+        year: "2024"
+        desc: "Comming Soon"
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt:
+      # - title: ""
+      #   year: ""
+      #   desc: ""
+      #   image: assets/img/timeline/4.jpg
+      #   alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "다음 <br> 멋사는 <br> 너!"
 
   about:
     title: "About Us"
