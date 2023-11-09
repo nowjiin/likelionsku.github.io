@@ -13,7 +13,6 @@ en: &DEFAULT_EN
     title: title
     text: text
     button: GO!
-    favicon: "favicon.ico"
     buttonlink: "#services"
 
   services:
