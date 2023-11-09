@@ -21,10 +21,9 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
   <title>
-    <!-- {% if page.title %} -->
-    {{ site.title }}
-    <!-- {{ page.title | append: " | " | append: site.title }}{% else %}{{ site.title }} -->
-    <!-- {% endif %} -->
+    {% if page.title %}
+    {{ page.title | append: " | " | append: site.title }}{% else %}{{ site.title }}
+    {% endif %}
   </title>
 
   <!-- Bootstrap core CSS -->
