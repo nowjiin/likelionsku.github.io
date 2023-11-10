@@ -71,7 +71,7 @@ en: &DEFAULT_EN
       #   alt:
         # you can enforce the alignment
         # align: right
-    end: assets/img/timeline/likelionlogo-1024.png
+    end: ""
 
   team:
     title: "MEMBER"
