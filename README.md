@@ -1,6 +1,4 @@
-## About
-
-structure of this includes:
+## 구조
 
 - `_portfolio` 포트폴리오 그리드를 생성하는 파일. YAML 머리말이 모든 세부 사항을 처리
 - the `page` layout allows custom pages, as seen in the legal and 404 pages
