@@ -10,15 +10,15 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
+    - title: "INTRO"
+      section: about
     - title: "PARTS"
       section: services
-    - title: "MEMBER"
-      section: portfolio
-    - title: "About"
-      section: about
     - title: "Timeline"
       section: timeline
-    - title: "Team"
+    - title: "PROJECT"
+      section: portfolio
+    - title: "MEMBER"
       section: team
     # - title: "Contact"
     #   section: contact

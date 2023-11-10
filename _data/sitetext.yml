@@ -15,9 +15,16 @@ en: &DEFAULT_EN
     button: GO!
     buttonlink: "#services"
 
-  services:
+about:
+  title: "멋쟁이사자처럼<br>우리는 무엇을 하는 단체일까요?"
+  text: "우리를 소개해요"
+  body: "멋쟁이사자처럼은 현재 국내에서 가장 많은 학생들이 활동하고 있는 프로그래밍 동아리입니다. <br> 전국의 대학이 함께 참여하는 연합 코딩 동아리로, 평소 기술의 장벽으로 실현하지 못한 여러 아이디어를 각종 스터디를 통해 배우며 도전해볼 수 있는 동아리입니다."
+  section: about
+  
+
+services:
     title: "3 PART"
-    text: "멋사의 세 가지 분야"
+    text: "서경대학교 멋사는 세가지 분야로 나눠져 있습니다."
     section: services
     list:
       - title: "UX/UI"
@@ -31,14 +38,14 @@ en: &DEFAULT_EN
         icon: fab fa-java
 
   portfolio:
-    title: "구성원"
-    text: "멋사 11기 구성원"
+    title: "프로젝트/활동"
+    text: "11기의 활동"
     section: portfolio
     closebutton: "Close Project"
 
   timeline:
     title: "Timeline"
-    text: "연혁"
+    text: ""
     section: timeline
     # left is the default
     #start_align: "left"
@@ -46,17 +53,17 @@ en: &DEFAULT_EN
       - title: "LikeLionSKU 11TH"
         year: "2023-2023"
         desc: "서경대학교 멋사 시작"
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/lionlogo-1024.png
         alt: 
       - title: "LikeLionSKU 11TH"
         year: "2023-2023"
         desc: "서경대학교 정 동아리 승격"
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/lionlogo-1024.png
         alt:
       - title: "LikeLionSKU 12TH"
         year: "2024-2024"
         desc: "Comming Soon"
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/lionlogo-1024.png
         alt: left #image alt text
       # - title: ""
       #   year: ""
@@ -65,18 +72,14 @@ en: &DEFAULT_EN
       #   alt:
         # you can enforce the alignment
         # align: right
-    end: "다음 <br> 멋사는 <br> 너!"
+    end: assets/img/timeline/likelionlogo-1024.png
 
-  about:
-    title: "About Us"
-    text: "LIKELION SKU"
-    body: "여기에 멋사 설명 어쩌고 저쩌고 들어가야함"
-    section: about
+
 
   team:
-    title: "MADE BY"
+    title: "MEMBER"
     text: "LIKELION SKU 11TH"
-    subtext: 여기에 뭐라고 넣을까 비워도 됌
+    subtext: 
     section: team
     people:
       - name: "LIKELION SKU"
@@ -97,6 +100,54 @@ en: &DEFAULT_EN
             icon: fab fa-instagram
       - name: "NAME"
         role: "CORE MEMBER"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://github.com
+            icon: fab fa-github
+          - url: https://instagram.com
+            icon: fab fa-instagram
+      - name: "NAME"
+        role: "CORE MEMBER"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://github.com
+            icon: fab fa-github
+          - url: https://instagram.com
+            icon: fab fa-instagram
+      - name: "NAME"
+        role: "CORE MEMBER"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://github.com
+            icon: fab fa-github
+          - url: https://instagram.com
+            icon: fab fa-instagram
+      - name: "NAME"
+        role: "CORE MEMBER"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://github.com
+            icon: fab fa-github
+          - url: https://instagram.com
+            icon: fab fa-instagram
+      - name: "NAME"
+        role: "CORE MEMBER"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://github.com
+            icon: fab fa-github
+          - url: https://instagram.com
+            icon: fab fa-instagram
+      - name: "NAME"
+        role: "MEMBER"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://github.com
+            icon: fab fa-github
+          - url: https://instagram.com
+            icon: fab fa-instagram
+      - name: "NAME"
+        role: "MEMBER"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://github.com
