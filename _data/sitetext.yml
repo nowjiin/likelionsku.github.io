@@ -79,7 +79,7 @@ en: &DEFAULT_EN
     subtext: 
     section: team
     people:
-      - name: "LIKELION SKU"
+      - name: "NAME"
         role: "LEAD"
         image: assets/img/team/500x500.jpg
         social:
@@ -89,6 +89,22 @@ en: &DEFAULT_EN
             icon: fab fa-instagram
       - name: "NAME"
         role: "CO - Lead"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://github.com
+            icon: fab fa-github
+          - url: https://instagram.com
+            icon: fab fa-instagram
+      - name: "NAME"
+        role: "CORE MEMBER"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://github.com
+            icon: fab fa-github
+          - url: https://instagram.com
+            icon: fab fa-instagram
+      - name: "NAME"
+        role: "CORE MEMBER"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://github.com
