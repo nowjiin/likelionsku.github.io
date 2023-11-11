@@ -13,7 +13,7 @@ en: &DEFAULT_EN
     title: POSSIBILITY TO REALITY
     text: LIKELION SKU
     button: GO!
-    buttonlink: "#services"
+    buttonlink: "#about"
 
   about:
     title: "멋쟁이사자처럼은<br>무엇을 하는 단체일까요?"
@@ -142,4 +142,3 @@ en-US:
   <<: *DEFAULT_EN
 ko-KR:
   <<: *DEFAULT_EN
-  
