@@ -1,7 +1,7 @@
 ---
 caption: #what displays in the portfolio grid:
   title: 1
-  subtitle: 첫 시작 프로젝트
+  subtitle: 첫 번째 활동
   thumbnail: assets/img/header2.jpg
   
 #what displays when the item is clicked:
