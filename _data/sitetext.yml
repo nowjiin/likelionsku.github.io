@@ -79,7 +79,7 @@ en: &DEFAULT_EN
     subtext: 
     section: team
     people:
-      - name: "NAME"
+      - name: "황현진"
         role: "LEAD"
         image: assets/img/team/500x500.jpg
         social:
@@ -87,7 +87,7 @@ en: &DEFAULT_EN
             icon: fab fa-github
           - url: https://instagram.com
             icon: fab fa-instagram
-      - name: "NAME"
+      - name: "김온유"
         role: "CO - Lead"
         image: assets/img/team/500x500.jpg
         social:
@@ -95,7 +95,7 @@ en: &DEFAULT_EN
             icon: fab fa-github
           - url: https://instagram.com
             icon: fab fa-instagram
-      - name: "NAME"
+      - name: "하경림"
         role: "CORE MEMBER"
         image: assets/img/team/500x500.jpg
         social:
@@ -103,7 +103,7 @@ en: &DEFAULT_EN
             icon: fab fa-github
           - url: https://instagram.com
             icon: fab fa-instagram
-      - name: "NAME"
+      - name: "조민선"
         role: "CORE MEMBER"
         image: assets/img/team/500x500.jpg
         social:
@@ -111,7 +111,7 @@ en: &DEFAULT_EN
             icon: fab fa-github
           - url: https://instagram.com
             icon: fab fa-instagram
-      - name: "NAME"
+      - name: "김유진"
         role: "CORE MEMBER"
         image: assets/img/team/500x500.jpg
         social:
@@ -119,7 +119,15 @@ en: &DEFAULT_EN
             icon: fab fa-github
           - url: https://instagram.com
             icon: fab fa-instagram
-      - name: "NAME"
+      - name: "심보영"
+        role: "CORE MEMBER"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://github.com
+            icon: fab fa-github
+          - url: https://instagram.com
+            icon: fab fa-instagram
+      - name: "천다인"
         role: "CORE MEMBER"
         image: assets/img/team/500x500.jpg
         social:
