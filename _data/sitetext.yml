@@ -38,7 +38,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "프로젝트/활동"
-    text: "11기의 활동"
+    text: "11기 돌아보기"
     section: portfolio
     closebutton: "Close Project"
 
@@ -83,9 +83,9 @@ en: &DEFAULT_EN
         role: "LEAD"
         image: assets/img/team/500x500.jpg
         social:
-          - url: https://github.com
+          - url: https://github.com/nowjiin
             icon: fab fa-github
-          - url: https://instagram.com
+          - url: https://instagram.com/nowgenie
             icon: fab fa-instagram
       - name: "김온유"
         role: "CO - Lead"
@@ -138,9 +138,9 @@ en: &DEFAULT_EN
 
   footer:
     social:
-      - url: https://github.com
+      - url: https://github.com/likelion-sku-11st
         icon: "fab fa-github"
-      - url: https://instagram.com
+      - url: https://www.instagram.com/likelion_skuniv
         icon: "fab fa-instagram"
       # - url: https://twitter.com
       #   icon: "fab fa-twitter"
