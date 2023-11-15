@@ -55,15 +55,15 @@ en: &DEFAULT_EN
         image: assets/img/timeline/lionlogo-1024.png
         alt: 
       - title: "LikeLionSKU 11TH"
-        year: "2023-2023"
-        desc: "서경대학교 정 동아리 승격"
-        image: assets/img/timeline/lionlogo-1024.png
-        alt:
-      - title: "LikeLionSKU 12TH"
         year: "2024-2024"
         desc: "Comming Soon"
         image: assets/img/timeline/lionlogo-1024.png
-        alt: left #image alt text
+        alt:
+      # - title: "LikeLionSKU 12TH"
+      #   year: "2024-2024"
+      #   desc: "Comming Soon"
+      #   image: assets/img/timeline/lionlogo-1024.png
+      #   alt: left #image alt text
       # - title: ""
       #   year: ""
       #   desc: ""
@@ -97,7 +97,7 @@ en: &DEFAULT_EN
         image: assets/img/team/bondi_ms.png
       - name: "김유진"
         role: "CORE MEMBER"
-        image: assets/img/team/bondi_yj.png
+        image: assets/img/team/bondi_uj.png
       - name: "심보영"
         role: "CORE MEMBER"
         image: assets/img/team/bondi_by.png
