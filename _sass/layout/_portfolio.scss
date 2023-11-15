@@ -88,7 +88,8 @@
       font-size: 16px;
       // font-style: italic;
       margin: 20px 0 30px;
-      @include serif-font;
+      @include pretendard;
+      // @include serif-font;
     }
     ul.list-inline {
       margin-top: 0;

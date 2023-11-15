@@ -13,6 +13,7 @@ header.masthead {
     .intro-lead-in {
       font-size: 22px;
       font-style: italic;
+      font-weight: bold;
       line-height: 22px;
       margin-bottom: 25px;
       @include heading-font;
@@ -34,10 +35,10 @@ header.masthead {
       .intro-lead-in {
         font-size: 40px;
         font-style: italic;
+        font-weight: bold;
         line-height: 40px;
         margin-bottom: 25px;
         @include heading-font;
-        // @include serif-font;
       }
       .intro-heading {
         font-size: 75px;
