@@ -72,7 +72,6 @@ en: &DEFAULT_EN
         # you can enforce the alignment
         # align: right
     end: ""
-
   team:
     title: "MEMBER"
     text: "LIKELION SKU 11TH"
@@ -82,60 +81,29 @@ en: &DEFAULT_EN
       - name: "황현진"
         role: "LEAD"
         image: assets/img/team/bondi_hj.png
-        social:
-          - url: https://github.com/nowjiin
-            icon: fab fa-github
-          - url: https://instagram.com/nowgenie
-            icon: fab fa-instagram
+        # social:
+        #   - url: https://github.com/nowjiin
+        #     icon: fab fa-github
+        #   - url: https://instagram.com/nowgenie
+        #     icon: fab fa-instagram
       - name: "김온유"
         role: "CO - Lead"
         image: assets/img/team/bondi_oy.jpg
-        social:
-          - url: https://github.com
-            icon: fab fa-github
-          - url: https://instagram.com
-            icon: fab fa-instagram
       - name: "하경림"
         role: "CORE MEMBER"
         image: assets/img/team/bondi_kr.png
-        social:
-          - url: https://github.com
-            icon: fab fa-github
-          - url: https://instagram.com
-            icon: fab fa-instagram
       - name: "조민선"
         role: "CORE MEMBER"
         image: assets/img/team/bondi_ms.png
-        social:
-          - url: https://github.com
-            icon: fab fa-github
-          - url: https://instagram.com
-            icon: fab fa-instagram
       - name: "김유진"
         role: "CORE MEMBER"
         image: assets/img/team/bondi_yj.png
-        social:
-          - url: https://github.com
-            icon: fab fa-github
-          - url: https://instagram.com
-            icon: fab fa-instagram
       - name: "심보영"
         role: "CORE MEMBER"
         image: assets/img/team/bondi_by.png
-        social:
-          - url: https://github.com
-            icon: fab fa-github
-          - url: https://instagram.com
-            icon: fab fa-instagram
       - name: "천다인"
         role: "CORE MEMBER"
         image: assets/img/team/bondi_di.png
-        social:
-          - url: https://github.com
-            icon: fab fa-github
-          - url: https://instagram.com
-            icon: fab fa-instagram
-
   footer:
     social:
       - url: https://github.com/likelion-sku-11st
