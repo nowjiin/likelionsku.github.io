@@ -87,7 +87,7 @@ en: &DEFAULT_EN
         #   - url: https://instagram.com/nowgenie
         #     icon: fab fa-instagram
       - name: "김온유"
-        role: "CO - Lead"
+        role: "CO - LEAD"
         image: assets/img/team/bondi_oy.jpg
       - name: "하경림"
         role: "CORE MEMBER"
