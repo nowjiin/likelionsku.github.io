@@ -81,7 +81,7 @@ en: &DEFAULT_EN
     people:
       - name: "황현진"
         role: "LEAD"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/bondi_hj.png
         social:
           - url: https://github.com/nowjiin
             icon: fab fa-github
@@ -89,7 +89,7 @@ en: &DEFAULT_EN
             icon: fab fa-instagram
       - name: "김온유"
         role: "CO - Lead"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/bondi_oy.jpg
         social:
           - url: https://github.com
             icon: fab fa-github
@@ -97,7 +97,7 @@ en: &DEFAULT_EN
             icon: fab fa-instagram
       - name: "하경림"
         role: "CORE MEMBER"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/bondi_kr.png
         social:
           - url: https://github.com
             icon: fab fa-github
@@ -105,7 +105,7 @@ en: &DEFAULT_EN
             icon: fab fa-instagram
       - name: "조민선"
         role: "CORE MEMBER"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/bondi_ms.png
         social:
           - url: https://github.com
             icon: fab fa-github
@@ -113,7 +113,7 @@ en: &DEFAULT_EN
             icon: fab fa-instagram
       - name: "김유진"
         role: "CORE MEMBER"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/bondi_yj.png
         social:
           - url: https://github.com
             icon: fab fa-github
@@ -121,7 +121,7 @@ en: &DEFAULT_EN
             icon: fab fa-instagram
       - name: "심보영"
         role: "CORE MEMBER"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/bondi_by.png
         social:
           - url: https://github.com
             icon: fab fa-github
@@ -129,7 +129,7 @@ en: &DEFAULT_EN
             icon: fab fa-instagram
       - name: "천다인"
         role: "CORE MEMBER"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/bondi_di.png
         social:
           - url: https://github.com
             icon: fab fa-github
