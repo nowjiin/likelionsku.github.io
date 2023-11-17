@@ -7,7 +7,7 @@ caption:
 title: 공통 스터디
 subtitle: GIT, web, css
 image: 
-alt: image alt text
+alt: 
 
 ---
 <p>
