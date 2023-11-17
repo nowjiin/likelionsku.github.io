@@ -7,7 +7,7 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: 11기 활동 모아보기
 subtitle: 2023-03 ~ 2023-11
-image: ./assets/img/portfolio/1/header.jpg
+image:
 alt: image alt text
 
 ---
