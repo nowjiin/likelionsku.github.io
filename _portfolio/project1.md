@@ -6,7 +6,7 @@ caption:
   
 title: 공통 스터디
 subtitle: GIT, web, css
-image: ./assets/img/portfolio/2/header.png
+image: ./assets/img/portfolio/2/header.png width="49%"
 alt: image alt text
 
 ---
