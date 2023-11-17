@@ -12,8 +12,8 @@ alt: image alt text
 
 ---
 <p aligin='center'>
-  <img src="./assets/img/portfolio/1/OT.jpg" width="50%">
-  <img src="./assets/img/portfolio/1/OT_img.jpg" width="50%">
+  <img src="./assets/img/portfolio/1/OT.jpg" width="49%">
+  <img src="./assets/img/portfolio/1/OT_img.jpg" width="49%">
 </p>
 
 ### 서경대 멋사 시작[2023년 2월]
@@ -29,7 +29,7 @@ alt: image alt text
 - Django (python)
 
 
-  <img src="./assets/img/portfolio/1/OT.jpg" width="50%">
+  <img src="./assets/img/portfolio/1/OT.jpg" width="49%">
 
 ### 첫 행사 아이디어톤에 나가다 [2023년 6월]
 
