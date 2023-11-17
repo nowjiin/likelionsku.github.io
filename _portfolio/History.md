@@ -2,18 +2,18 @@
 caption: #what displays in the portfolio grid:
   title: 11기 활동 모아보기
   subtitle: 
-  thumbnail: ../assets/img/portfolio/1/header.jpg
+  thumbnail: ./assets/img/portfolio/1/header.jpg
   
 #what displays when the item is clicked:
 title: 11기 활동 모아보기
 subtitle: 2023-03 ~ 2023-11
-image: ../assets/img/portfolio/1/header.jpg
+image: ./assets/img/portfolio/1/header.jpg
 alt: image alt text
 
 ---
 <p aligin='center'>
-  <img src="../assets/img/portfolio/1/OT.jpg" width="50%">
-  <img src="../assets/img/portfolio/1/OT_img.jpg" width="50%">
+  <img src="./assets/img/portfolio/1/OT.jpg" width="50%">
+  <img src="./assets/img/portfolio/1/OT_img.jpg" width="50%">
 </p>
 
 ### 서경대 멋사 시작[2023년 2월]
@@ -29,7 +29,7 @@ alt: image alt text
 - Django (python)
 
 
-  <img src="../assets/img/portfolio/1/OT.jpg" width="50%">
+  <img src="./assets/img/portfolio/1/OT.jpg" width="50%">
 
 ### 첫 행사 아이디어톤에 나가다 [2023년 6월]
 
