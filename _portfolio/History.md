@@ -27,12 +27,23 @@ alt: image alt text
 - Front-End (html/css/js/React)
 - Spring Boot (Java)
 - Django (python)
-
-
-  <img src="./assets/img/portfolio/1/OT.jpg" width="49%">
+  <p>
+    <img src="./assets/img/portfolio/1/OT.jpg" width="49%">
+    <img src="./assets/img/portfolio/1/OT.jpg" width="49%">
+  </p>
 
 ### 첫 행사 아이디어톤에 나가다 [2023년 6월]
+<p>
+  <img src="./assets/img/portfolio/1/ideathon1.jpg" width="49%">
+  <img src="./assets/img/portfolio/1/ideathon2.jpg" width="49%">
+</p>
 
 ### 역대급 규모의 무박2일 해커톤에 가다 [2023년 8월]
+<p>
+  <img src="./assets/img/portfolio/1/hackton1.jpg" width="49%">
+  <img src="./assets/img/portfolio/1/hackton2.jpg" width="49%">
+</p>
 
 ### 교내 프로젝트진행 [2023년 10월]
+  <p>
+  </p>
