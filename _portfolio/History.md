@@ -44,6 +44,12 @@ alt: image alt text
   <img src="./assets/img/portfolio/1/hackton2.jpg" width="49%">
 </p>
 
+- 해커톤 어쩌고 저쩌고
+- 설명 추가
+
 ### 교내 프로젝트진행 [2023년 10월]
   <p>
   </p>
+
+- 설명 추가
+- 설명 추가

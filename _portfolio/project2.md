@@ -15,9 +15,4 @@ alt: image alt text
 
 ### 
 
-optional info list (delete if not using):
 
-{:.list-inline} 
-- Date: 
-- Client: 
-- Category: 
