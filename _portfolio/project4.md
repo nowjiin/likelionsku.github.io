@@ -11,7 +11,16 @@ image:
 alt: 
 
 ---
-### 해커톤 준비를 위한 파트별 스터디
+### 
+<p>
+  <img src="./assets/img/portfolio/4/1.jpg" width="49%">
+  <img src="./assets/img/portfolio/4/2.jpg" width="49%">
+</p>
+
+<p>
+  <img src="./assets/img/portfolio/4/3.jpg" width="49%">
+  <img src="./assets/img/portfolio/4/2.jpg" width="49%">
+</p>
 
 ### 
 

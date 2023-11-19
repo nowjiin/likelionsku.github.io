@@ -12,7 +12,11 @@ alt:
 
 ---
 ### 해커톤 준비를 위한 파트별 스터디
-
-### 
-
-
+##
+### UX/UI
+##
+### FrontEnd - React
+##
+### Backend - Spring
+##
+### Backend - Django

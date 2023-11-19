@@ -11,7 +11,7 @@ image: https://place-hold.it/400x300 #main image, can be a link or a file in ass
 alt: image alt text
 
 ---
-### 해커톤 준비를 위한 파트별 스터디
+### 
 
 ### 
 
