@@ -49,18 +49,18 @@ alt:
 
 ### 교내 프로젝트진행 [2023년 10월]
 <p aligin='center'>
-  <img src="./assets/img/portfolio/5/proj1.jpg" width="49%">
-  <img src="./assets/img/portfolio/5/proj2.jpg" width="49%">
+  <img src="./assets/img/portfolio/5/proj1.png" width="49%">
+  <img src="./assets/img/portfolio/5/proj2.png" width="49%">
 </p>
 <p aligin='center'>
-  <img src="./assets/img/portfolio/5/proj3.jpg" width="49%">
-  <img src="./assets/img/portfolio/5/proj4.jpg" width="49%">
+  <img src="./assets/img/portfolio/5/proj3.png" width="49%">
+  <img src="./assets/img/portfolio/5/proj4.png" width="49%">
 </p>
 
 ### 멋쟁이사자처럼 11기 종료 [2023년 11월]
 1년간의 활동이 끝나고 수료증을 배부 하였습니다.
 이후 1년간의 회고와 회식 자리를 가졌습니다.
 <p aligin='center'>
-  <img src="./assets/img/portfolio/6/final1.jpg" width="49%">
-  <img src="./assets/img/portfolio/6/final2.jpg" width="49%">
+  <img src="./assets/img/portfolio/6/final1.png" width="49%">
+  <img src="./assets/img/portfolio/6/final2.png" width="49%">
 </p>

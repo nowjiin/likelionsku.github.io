@@ -21,6 +21,6 @@ alt:
   <img src="./assets/img/portfolio/5/proj4.png" width="49%">
 </p>
 <p>
-  <img src="./assets/img/portfolio/5/proj5.png" width="49%">
+  <img src="./assets/img/portfolio/5/proj5.jpg" width="49%">
 </p>
 
