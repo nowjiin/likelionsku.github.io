@@ -2,18 +2,18 @@
 caption: #what displays in the portfolio grid:
   title: 11기 활동 모아보기
   subtitle: 
-  thumbnail: ./assets/img/portfolio/1/header.jpg
+  thumbnail: ./assets/img/portfolio/History/header.jpg
   
 #what displays when the item is clicked:
 title: 11기 활동 모아보기
 subtitle: 2023-03 ~ 2023-11
 image:
-alt: image alt text
+alt:
 
 ---
 <p aligin='center'>
-  <img src="./assets/img/portfolio/1/OT.jpg" width="49%">
-  <img src="./assets/img/portfolio/1/OT_img.jpg" width="49%">
+  <img src="./assets/img/portfolio/History/OT.jpg" width="49%">
+  <img src="./assets/img/portfolio/History/OT_img.jpg" width="49%">
 </p>
 
 ### 서경대 멋사 시작[2023년 2월]
@@ -28,28 +28,39 @@ alt: image alt text
 - Spring Boot (Java)
 - Django (python)
   <p>
-    <img src="./assets/img/portfolio/1/OT.jpg" width="49%">
-    <img src="./assets/img/portfolio/1/OT.jpg" width="49%">
+    <img src="./assets/img/portfolio/History/OT.jpg" width="49%">
+    <img src="./assets/img/portfolio/History/OT.jpg" width="49%">
   </p>
 
 ### 첫 행사 아이디어톤에 나가다 [2023년 6월]
 <p>
-  <img src="./assets/img/portfolio/1/ideathon1.jpg" width="49%">
-  <img src="./assets/img/portfolio/1/ideathon2.jpg" width="49%">
+  <img src="./assets/img/portfolio/History/ideathon1.jpg" width="49%">
+  <img src="./assets/img/portfolio/History/ideathon2.jpg" width="49%">
 </p>
 
 ### 역대급 규모의 무박2일 해커톤에 가다 [2023년 8월]
 <p>
-  <img src="./assets/img/portfolio/1/hackton1.jpg" width="49%">
-  <img src="./assets/img/portfolio/1/hackton2.jpg" width="49%">
+  <img src="./assets/img/portfolio/History/hackton1.jpg" width="49%">
+  <img src="./assets/img/portfolio/History/hackton2.jpg" width="49%">
 </p>
-
-- 해커톤 어쩌고 저쩌고
-- 설명 추가
+무박 2일로 진행되는 해커톤에 11기 멤버들이 4팀으로 나뉘어 참가하였습니다.
+한달전부터 열심히 준비해 해커톤 당일에 결과를 합치거나, 오류 수정, 다른 팀과의 피드백을 주고받으며 개발을 진행했고, 여러 이벤트 부스 또한 참가하여 경품도 받았습니다.
+밤을 새웠지만 시간이 정말 빨리가고 짧았던 경험을 했습니다.
 
 ### 교내 프로젝트진행 [2023년 10월]
-  <p>
-  </p>
+<p aligin='center'>
+  <img src="./assets/img/portfolio/5/proj1.jpg" width="49%">
+  <img src="./assets/img/portfolio/5/proj2.jpg" width="49%">
+</p>
+<p aligin='center'>
+  <img src="./assets/img/portfolio/5/proj3.jpg" width="49%">
+  <img src="./assets/img/portfolio/5/proj4.jpg" width="49%">
+</p>
 
-- 설명 추가
-- 설명 추가
+### 멋쟁이사자처럼 11기 종료 [2023년 11월]
+1년간의 활동이 끝나고 수료증을 배부 하였습니다.
+이후 1년간의 회고와 회식 자리를 가졌습니다.
+<p aligin='center'>
+  <img src="./assets/img/portfolio/6/final1.jpg" width="49%">
+  <img src="./assets/img/portfolio/6/final2.jpg" width="49%">
+</p>

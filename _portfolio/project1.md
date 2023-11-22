@@ -2,7 +2,7 @@
 caption:
   title: 공통 스터디
   subtitle: GIT, web, css
-  thumbnail: ./assets/img/portfolio/2/header.png
+  thumbnail: ./assets/img/portfolio/1/header.png
   
 title: 공통 스터디
 subtitle: GIT, web, css
@@ -11,8 +11,8 @@ alt:
 
 ---
 <p>
-  <img src="./assets/img/portfolio/2/img1.png" width="49%">
-  <img src="./assets/img/portfolio/2/img2.png" width="49%">
+  <img src="./assets/img/portfolio/1/img1.png" width="49%">
+  <img src="./assets/img/portfolio/1/img2.png" width="49%">
 </p>
 
 ### 협업의 필수 git이란

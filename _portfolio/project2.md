@@ -2,7 +2,7 @@
 caption: #what displays in the portfolio grid:
   title: 파트별 스터디
   subtitle: UX/UI, React, Spring, Django
-  thumbnail: ./assets/img/portfolio/3/thumbnail.png
+  thumbnail: ./assets/img/portfolio/2/thumbnail.png
   
 #what displays when the item is clicked:
 title: 파트별 스터디

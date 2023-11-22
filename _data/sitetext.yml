@@ -33,7 +33,7 @@ en: &DEFAULT_EN
         desc: "HTML/CSS/JS/React"
         icon: fab fa-react
       - title: "Back-End"
-        desc: "Spring/Django"
+        desc: "Spring"
         icon: fab fa-java
 
   portfolio:
