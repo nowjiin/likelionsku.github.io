@@ -2,9 +2,9 @@
 caption: #what displays in the portfolio grid:
   title: 프로젝트
   subtitle: 
-  thumbnail: https://place-hold.it/400x300
+  thumbnail: ./assets/img/portfolio/5/thumbnail.png
   
-#what displays when the item is clicked:
+
 title: 프로젝트
 subtitle: UX/UI, React, Spring, Django
 image:
@@ -26,6 +26,6 @@ alt:
 
 ![서경대학교 축제 페이지](https://nowjiin.github.io/skufestival-2023/)
 
-![SSIB 먹거리 찾아주는 페이지]()
+![오늘 뭐먹지 ? 먹거리 찾아주는 페이지(SSIB)](https://ssib.netlify.app/)
 
-![]()
+![학교 근처 맛집 알려주는 서비스](https://skuplate.com/)
